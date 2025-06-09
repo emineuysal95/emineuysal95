@@ -20,9 +20,7 @@ Other: Data visualization, dashboard building, data cleaning & wrangling
 
 📚 Recent Learning & Projects
 
-Building a predictive model for early disease risk scoring using Python & Power BI
-
-Customer churn analysis in telecom and e-commerce sectors
+Building a predictive model Customer churn analysis in telecom and e-commerce sectors
 
 Completing a professional certificate in Big Data and Predictive Analytics at TMU
 
