@@ -12,7 +12,7 @@ I'm an aspiring data scientist/analyst with a background in e-commerce analytics
 
 📊 Technical Skills
 
-Languages & Tools: SQL, R, Python (beginner), Power BI, Tableau, Excel
+Languages & Tools: SQL, R, Python (intermediate), Power BI, Tableau, Excel
 
 Statistical Techniques: Regression, Classification, Clustering
 
