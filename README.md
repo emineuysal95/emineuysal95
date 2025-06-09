@@ -1,6 +1,6 @@
 👋 Hi there, I'm Emine!
 
-I'm an aspiring data scientist with a background in e-commerce analytics, currently based in Calgary, Canada. I’m passionate about transforming data into meaningful insights and building practical solutions to real-world problems.
+I'm an aspiring data scientist/analyst with a background in e-commerce analytics, currently based in Calgary, Canada. I’m passionate about transforming data into meaningful insights and building practical solutions to real-world problems.
 
 💼 Background
 
