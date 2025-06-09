@@ -1,16 +1,42 @@
-## Hi there 👋
+👋 Hi there, I'm Emine!
 
-<!--
-**emineuysal95/emineuysal95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring data scientist with a background in e-commerce analytics, currently based in Calgary, Canada. I’m passionate about transforming data into meaningful insights and building practical solutions to real-world problems.
 
-Here are some ideas to get you started:
+💼 Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📦 4+ years of experience in e-commerce operations and analytics
+
+🌐 Hands-on with platforms like Shopify, Amazon, Google Analytics, and Google Ads, Dynamics365 etc.
+
+🎓 Studied Economics at Yıldız Technical University (Turkey) and completed multiple certifications in Data Analytics
+
+📊 Technical Skills
+
+Languages & Tools: SQL, R, Python (beginner), Power BI, Tableau, Excel
+
+Statistical Techniques: Regression, Classification, Clustering
+
+Other: Data visualization, dashboard building, data cleaning & wrangling
+
+📚 Recent Learning & Projects
+
+Building a predictive model for early disease risk scoring using Python & Power BI
+
+Customer churn analysis in telecom and e-commerce sectors
+
+Completing a professional certificate in Big Data and Predictive Analytics at TMU
+
+🌱 What I’m working on
+
+Expanding my skills in machine learning and cloud data platforms
+
+Preparing for a Master’s in Data Science and Analytics in Canada
+
+Improving my fluency in English and learning French
+
+📫 Let’s Connect
+
+LinkedIn: https://www.linkedin.com/in/emine-uysal-a493471a4/
+
+GitHub: https://github.com/emineuysal95
+
