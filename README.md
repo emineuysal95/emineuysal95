@@ -28,7 +28,7 @@ Completing a professional certificate in Big Data and Predictive Analytics at TM
 
 Expanding my skills in machine learning and cloud data platforms
 
-Preparing for a Master’s in Data Science and Analytics in Canada
+Continuing my education in data science and analytics in Canada
 
 Improving my fluency in English and learning French
 
